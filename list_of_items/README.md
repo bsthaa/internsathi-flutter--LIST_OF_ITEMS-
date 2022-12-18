@@ -1,6 +1,6 @@
 # list_of_items
 
-A new Flutter project.
+Flutter project displaying list of movies, able to add new items to the list and remove items from the list.
 
 ## Getting Started
 
